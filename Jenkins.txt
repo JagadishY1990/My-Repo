@@ -1,0 +1,15 @@
+Continues integration
+1. download jinkins.war
+2. open command prompth from file url and run below command
+java -jar jinkins.war --httpPort=8080
+3. access url from brower
+4. manage jenkins
+5. global tool configuration
+6. java path and maven path.
+7. new item.
+8. general workspace, maven or etc
+9. Build trigger
+10. add build set dropdown(top level)
+10.Build on maven maven test 
+11.Build now.
+12. logs fo automation link
