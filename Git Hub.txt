@@ -1,0 +1,20 @@
+1. https://github.deere.com/scs-apps(trunk)
+2. Create branch
+3. Switch between different workspace.
+4. Fork means it will create individial instance
+5.click on fork.
+7. Work with fork url everytime. it will create code from branch
+8. git base on workspace url
+9. run command git clone with clone git URL
+10. go inside worspace folder
+11. $.git status
+12.git remote -v
+13. git remote add upstream https://github.deere.com/scs-apps/mgc
+14. git status
+15. git fetch upstream --- merge workspace
+16. git fetch upstream/master --- merge workspace
+17. git checkout upstream/devl --- switch workspace
+18. git checkout master --- switch workspace
+19. git add file path && git commint -m "Your message" -- commint code
+20. git push upstream/master 
+21. create pull request to merge to devl or master
